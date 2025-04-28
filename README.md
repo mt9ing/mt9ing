@@ -35,7 +35,7 @@ Feel free to explore and say hi!
 <br/>
 ![](https://www.codewars.com/users/mt9ing/badges/large)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mt9ing&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mt9ing&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
