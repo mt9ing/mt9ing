@@ -34,11 +34,6 @@ Feel free to explore and say hi!
 <a href="http://www.github.com/mt9ing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mt9ing&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br/>
 ![](https://www.codewars.com/users/mt9ing/badges/large)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mt9ing&theme=vue-dark&hide_border=false)<br/>
-
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=@mt9ing&icon=2&color=0)](https://visitcount.itsvg.in)
