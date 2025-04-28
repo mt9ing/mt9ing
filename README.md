@@ -33,7 +33,7 @@ Feel free to explore and say hi!
 # 📊GitHub Stats :
 <a href="http://www.github.com/mt9ing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mt9ing&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=mt9ing&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://www.codewars.com/users/mt9ing/badges/large)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mt9ing&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mt9ing&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
